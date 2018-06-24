@@ -2,13 +2,16 @@
 
 This project is about implementing a multi-players game with artifical intelligence players and a graphical interface.
 The players and the graphical clients connect to the server through TCP/IP.
-The server utilizes a single thread within a single process.
+The event-driven server utilizes a single thread within a single process.
 
-</br></br>
+</br>
 
 ![](imgs/zappy1.png)
+</br>
 ![](imgs/zappy2.png)
+</br>
 ![](imgs/zappy3.png)
+</br>
 ![](imgs/zappy5.png)
 </br></br>
 
