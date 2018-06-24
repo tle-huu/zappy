@@ -1,0 +1,32 @@
+meshes/egg.obj
+textures/white.png
+
+	Material:
+        0 specular
+        1 diffuse
+        4000 fog
+        0 0 0 fogcol
+
+	Transform:
+	
+	matrix
+	0.2 0 0 0
+	0 0.2 0 0
+	0 0 0.2 0
+	0 0 0 1
+	
+	0.0
+
+        matrix
+        0.25 0 0 0
+        0 0.21 0 0
+        0 0 0.25 0
+        0 0 0 1
+
+        0.5
+
+	Cycle:
+	1.0
+
+	Position:
+	0 0 0
